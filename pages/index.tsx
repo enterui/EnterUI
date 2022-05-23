@@ -13,6 +13,9 @@ const Home: NextPage = () => {
         <body class="h-full">
         ```
       */}
+      <Head>
+        <title>EnterUI.dev</title>
+      </Head>
       <div className="flex min-h-full flex-col pt-16 pb-12">
         <main className="mx-auto flex w-full max-w-7xl flex-grow flex-col justify-center px-4 sm:px-6 lg:px-8">
           <div className="flex flex-shrink-0 justify-center">
